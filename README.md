@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sanatjee
+- 👀 I’m interested in learning new tech and creating something meaningful out of it
+- 🌱 I’m currently learning React, NestJs, Java Spring Boot
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 You can reach me via my email gawade.sanat@gmail.com
